@@ -6,8 +6,8 @@
   <name>Keltis Card</name>
   <description>Board Game in Java</description>
   <build>
-    <sourceDirectory>src</sourceDirectory>
-    <testSourceDirectory>tests</testSourceDirectory>
+    <sourceDirectory>src/main/java</sourceDirectory>
+    <testSourceDirectory>src/test/java</testSourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
