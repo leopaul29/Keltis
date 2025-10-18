@@ -154,6 +154,6 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Project Type**: University Assignment | **Language**: Java | **Year**: [Add your year]
+**Project Type**: University Assignment | **Language**: Java | **Year**: 2016
 
 👤 **Author**: [@leopaul29](https://github.com/leopaul29)
